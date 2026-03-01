@@ -1,4 +1,29 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1772377463
+::res://::1772386544
 icon.svg::CompressedTexture2D::4977439593878078182::1772309289::1772309138::1::::<><><>0<>0<>b3d7b98568add6a49fe9d4d514f88c79<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 node_2d.tscn::PackedScene::1094433127823580504::1772376154::0::1::::<><><>0<>0<><>::
+README.md::TextFile::-1::1772381139::0::1::::<><><>0<>0<><>::
+::res://entities/::1772386512
+player.tscn::PackedScene::3028512893274623150::1772386512::0::1::::<><><>0<>0<><>::uid://cr3s3iimwk6c3::::res://scripts/player.gd
+::res://scene/::1772386456
+game.tscn::PackedScene::2145353253721156313::1772386456::0::1::::<><><>0<>0<><>::uid://bjfbfuuqmn6ak::::res://entities/player.tscn
+::res://scripts/::1772381969
+player.gd::GDScript::6024997627565849740::1772381969::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://sprites/::1772386745
+::res://sprites/1 - Penguin/::1597344634
+Belly_Sliding (16 x 16).png::CompressedTexture2D::3625663383257387340::1597344382::1772386751::1::::<><><>0<>0<>2f07b1eda31aebde7aad4383728d45b2<>res://.godot/imported/Belly_Sliding (16 x 16).png-131d913c20d930875408c1b736d0672e.ctex::
+Blink (16 x 16).png::CompressedTexture2D::3972851909891618011::1597344204::1772386751::1::::<><><>0<>0<>b431bd0b9b5d945957a564182ee1774d<>res://.godot/imported/Blink (16 x 16).png-f16f8a249b7afd4f4d8b7075ed6b2402.ctex::
+Ducking (16 x 16).png::CompressedTexture2D::4727027941660606868::1597344634::1772386751::1::::<><><>0<>0<>0c8d202ac9e3d1361ba907b8a46bfd77<>res://.godot/imported/Ducking (16 x 16).png-a23afab6a0dd96c96a976d698c661440.ctex::
+Falling (16 x 16).png::CompressedTexture2D::6873801557549456597::1597344474::1772386751::1::::<><><>0<>0<>1c861e8ab2333a00a3717eaa3ed4bbbd<>res://.godot/imported/Falling (16 x 16).png-11874a016daa6c38f126545921e014a8.ctex::
+Hurt (16 x 16).png::CompressedTexture2D::8312990325174983550::1597344532::1772386751::1::::<><><>0<>0<>bc1d1802760e797423a8e9d8ff2d3b4f<>res://.godot/imported/Hurt (16 x 16).png-3ff826190d9ae522872907ea2f904fdf.ctex::
+Idle (16 x 16).png::CompressedTexture2D::195688955487179487::1597344182::1772386751::1::::<><><>0<>0<>7bea3e87d3dc12d41a64a48b0280e740<>res://.godot/imported/Idle (16 x 16).png-4358bc2b6079cf7ed0c4b84395d4a3e6.ctex::
+Jump (16 x 16).png::CompressedTexture2D::7843455558236489376::1597344430::1772386751::1::::<><><>0<>0<>e395f46d12262f53866c5ae5349ae235<>res://.godot/imported/Jump (16 x 16).png-367a068f09e8395139980e83bdb46e3c.ctex::
+Looking_Off (16 x 16).png::CompressedTexture2D::911867073531935046::1597344512::1772386751::1::::<><><>0<>0<>b3e65e6e9a4306be33aef96f9506bc69<>res://.godot/imported/Looking_Off (16 x 16).png-a6e041b667ac926b855090b23acb2a42.ctex::
+Looking_Up (16 x 16).png::CompressedTexture2D::6548589188470829311::1597344304::1772386751::1::::<><><>0<>0<>31ae0d6e57bfbce8b7e0fd580e1032d7<>res://.godot/imported/Looking_Up (16 x 16).png-c3517713af109617b194c86b55efa45c.ctex::
+Lying_On_Ground (16 x 16).png::CompressedTexture2D::9188138802761933236::1597344564::1772386751::1::::<><><>0<>0<>eeef2ed626bc82d78e791bae896524ff<>res://.godot/imported/Lying_On_Ground (16 x 16).png-3e386217575eb58276d766061b4ee1a5.ctex::
+Sitting (16 x 16).png::CompressedTexture2D::915384153100617633::1597344590::1772386751::1::::<><><>0<>0<>e564a8a907602f8b3fa14eb56a73377f<>res://.godot/imported/Sitting (16 x 16).png-14a7d5e78a8d748856a4ae91cbdada72.ctex::
+Standing (16 x 16).png::CompressedTexture2D::5292116041149007221::1597344154::1772386751::1::::<><><>0<>0<>d2e2e8c241ebc9ee687400cb44f5d81f<>res://.godot/imported/Standing (16 x 16).png-1051f777e9fd0d3e5afd5ea7d8d716d0.ctex::
+Surprised (16 x 16).png::CompressedTexture2D::6600421473896026005::1597344610::1772386751::1::::<><><>0<>0<>0079c4c694aa8cc414e4cd3d725d2be9<>res://.godot/imported/Surprised (16 x 16).png-8bf26a1030e24105e58fb62248d04de3.ctex::
+Swimming (16 x 16).png::CompressedTexture2D::6258483669482528102::1597344410::1772386751::1::::<><><>0<>0<>b05c5be32621ad43bf7561893c0b8d83<>res://.godot/imported/Swimming (16 x 16).png-3662cd1db94020705e7f2e7e15f4ce31.ctex::
+Victory_Dance (16 x 16).png::CompressedTexture2D::4177467055094672578::1597344240::1772386751::1::::<><><>0<>0<>beb44da4544e1e74cb048c53fe8a4fc2<>res://.godot/imported/Victory_Dance (16 x 16).png-2891b0719e131c9a35e1595ee6036f65.ctex::
+Waddling (16 x 16).png::CompressedTexture2D::6265586517965215964::1597344348::1772386751::1::::<><><>0<>0<>57952b9633ea7b54da698158ed81fa68<>res://.godot/imported/Waddling (16 x 16).png-2addbdc4b2d71453946e6ebeb8706a2f.ctex::
